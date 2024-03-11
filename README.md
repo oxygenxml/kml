@@ -7,4 +7,4 @@ Copyright and License
 ---------------------
 Copyright 2024 Syncro Soft SRL.
 
-This project is licensed under [BSD 2-Clause License](https://github.com/oxygenxml/stratml/blob/master/LICENSE)
+This project is licensed under [BSD 2-Clause License](https://github.com/oxygenxml/kml/blob/master/LICENSE)
