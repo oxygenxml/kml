@@ -1,4 +1,4 @@
-stratml
+kml
 =======
 
 An oXygen XML Editor framework to add KML editing support to oXygen
